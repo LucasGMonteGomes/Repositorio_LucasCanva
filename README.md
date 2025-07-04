@@ -1,2 +1,2 @@
 # Repositorio_LucasCanva
-Repositorio de teste para aula de GitHub
+Repositorio de teste, aula de git canvas.
