@@ -1,0 +1,20 @@
+# Sistema: Leandix
+
+## Problema que resolve
+Falta de controle e organização no empréstimo de equipamentos e na reserva de espaços compartilhados, gerando perdas, conflitos e ineficiência.
+
+## Público-alvo
+Escolas, universidades, indústrias, empresas, hospitais, órgãos públicos e qualquer organização que use recursos físicos compartilhados.
+
+## Funcionalidades principais
+- Controle de empréstimos
+- Reserva de salas/espaços
+- Histórico de uso
+- Notificações e alertas automáticos
+
+## Diferencial
+Sistema integrado para gestão completa de ativos e espaços, com mobilidade (QR Code/app), inteligência preditiva e assinatura digital para maior segurança.
+
+## Dificuldades técnicas previstas
+Utilizar as tecnologias da plataforma Java.  
+Dificuldades em conectar o banco de dados com Java.
